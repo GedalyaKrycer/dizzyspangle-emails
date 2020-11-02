@@ -1,2 +1,2 @@
 # dizzyspangle-emails
-HTML email campaigns for the Dizzy Spangle blog. (In Proggress)
+HTML email campaigns for the Dizzy Spangle blog. (In Progress)
